@@ -1,0 +1,2 @@
+# leetcodexercise
+自己做的leetcode上面的题目把一些解答方法放上来
